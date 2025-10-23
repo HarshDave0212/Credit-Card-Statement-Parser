@@ -25,7 +25,7 @@ The app uses a Retrieval-Augmented Generation (RAG) pipeline powered by a local 
 Streamlit provides a clean, chat-like interface styled via custom HTML templates (htmlTemplates.py).
 ________________________________________
 ## Github Link:
-
+https://github.com/HarshDave0212/Credit-Card-Statement-Parser
 ________________________________________
 
 
