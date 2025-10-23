@@ -30,7 +30,7 @@ ________________________________________
 
 
 ## Tech Stack:
-### Tech Stack Overview
+
 | Component                | Library / Tool                  | Purpose                                    |
 | ------------------------ | ------------------------------- | ------------------------------------------ |
 | **Frontend UI**          | `Streamlit`                     | Web app interface                          |
